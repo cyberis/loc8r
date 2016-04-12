@@ -1,2 +1,4 @@
 # Dependency directory
-node_modules
+node_modules/
+# Misc Aritfacts
+zips/
