@@ -5,6 +5,6 @@ This is the app that gets built over the course of the book, **Getting MEAN with
 
 The original code for this project can be found at https://github.com/simonholmes/getting-MEAN.
 
-I will likely follow Simon's lead but may divert at places and make this my own. I will also probably follow his branching structure since that's pretty good git practice but again, I might divert or add to this where, especially once I've completed the book.
+I will likely follow Simon's lead but may divert at places and make this my own. I will also probably follow his branching structure since that's pretty good git practice but again, I might divert or add to this where I can think of a better way, especially once I've completed the book.
 
 I started this project on Monday, April 11th, 2016.
