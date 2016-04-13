@@ -1,4 +1,6 @@
 # Dependency directory
 node_modules/
+# Local only files
+.env
 # Misc Aritfacts
 zips/
